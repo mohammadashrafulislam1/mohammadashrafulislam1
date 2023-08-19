@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/mdashrafulislam12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdashrafulislam12" height="30" width="40" /></a>
 <a href="https://instagram.com/mdashraf83578" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdashraf83578" height="30" width="40" /></a>
 <a href="https://www.behance.net/ixdell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ixdell" height="30" width="40" /></a>
-<a href="www.youtube.com/@mdashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mdashraf" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mdashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@mdashraf" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
