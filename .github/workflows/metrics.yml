@@ -28,4 +28,5 @@ jobs:
           user: mohammadashrafulislam1
           template: classic
           base: header, activity, community
+          config_display: columns
           config_timezone: America/Winnipeg
