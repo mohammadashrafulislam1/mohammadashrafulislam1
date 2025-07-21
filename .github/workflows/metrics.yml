@@ -1,7 +1,7 @@
 name: GitHub Metrics
 
 on:
-  schedule: [{ cron: "0 0 * * *" }]  # Runs daily at midnight UTC
+  schedule: [{ cron: "0 0 * * *" }]  # Runs daily at midnight UTC.
   workflow_dispatch:                # Also allows manual trigger
 
 jobs:
