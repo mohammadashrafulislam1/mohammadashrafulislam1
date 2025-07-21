@@ -65,6 +65,6 @@
 ### 🧠 Recent Developer Activity
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/mohammadashrafulislam1?template=classic&base=header%2Cactivity%2Ccommunity&config.timezone=America%2FWinnipeg" alt="Metrics from GitHub" />
+  <img src="https://github.com/mohammadashrafulislam1/mohammadashrafulislam1/blob/main/github-metrics.svg" alt="Metrics from GitHub" />
 </p>
 
