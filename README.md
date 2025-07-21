@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Ashraful Islam</h1>
 
 <p align="center">
-  🚀 Passionate MERN Stack Web Developer | 🎨 UI/UX Enthusiast | 📚 Lifelong Learner
+  🚀 Passionate Full Stack Web Developer | 🎨 UI/UX Enthusiast | 📚 Lifelong Learner
 </p>
 
 <p align="center">
