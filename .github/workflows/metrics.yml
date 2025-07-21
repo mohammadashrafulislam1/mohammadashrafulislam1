@@ -1,7 +1,8 @@
 name: GitHub Metrics
+
 on:
-  schedule: [{ cron: "0 0 * * *" }] # daily at midnight
-  workflow_dispatch:
+  schedule: [{ cron: "0 0 * * *" }]  # Runs daily at midnight UTC
+  workflow_dispatch:                # Also allows manual trigger
 
 jobs:
   github-metrics:
@@ -9,7 +10,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.svg
           base: activity, repositories
           plugin_lines: yes
