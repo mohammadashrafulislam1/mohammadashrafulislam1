@@ -16,7 +16,7 @@
 ### 📫 How to reach me
 - Email: [mohammadashrafulislam33@gmail.com](mailto:mohammadashrafulislam33@gmail.com)
 - 🌐 [Portfolio Website](https://iridescent-moxie-6caad5.netlify.app/)
-- 📝 [View My Resume](#)
+- 📝 [View My Resume](https://drive.google.com/file/d/14xd3plnaldrabWQPzQJtEiH8I8aAAXI1/view?usp=sharing)
 
 ---
 
